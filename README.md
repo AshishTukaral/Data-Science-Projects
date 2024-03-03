@@ -1,7 +1,7 @@
 
-# Machine Learning Projects
+# Data Science Projects
 
-Welcome to my repository of Machine Learning projects! This collection showcases a variety of projects where I've applied machine learning and data analysis techniques to tackle real-world problems. Each project folder contains code and data related to the specific problem being addressed.
+Welcome to my repository of Data Science projects! This collection showcases a variety of projects where I've applied machine learning and data analysis techniques to tackle real-world problems. Each project folder contains code and data related to the specific problem being addressed.
 
 ## Project List
 
